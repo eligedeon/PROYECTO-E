@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+"Hola Por favor ingrese la cantida de horas trabajadas"
+5
+1
+5
+htrab
+4
+1
+23
+"Ingrese pago por hora"
+5
+1
+5
+phora
+7
+0
+1
+10
+htrab > 40
+6
+1
+2
+su
+11
+htrab*phora
+4
+1
+33
+"su sueldo es: S/ ", su, " soles"
+13
+6
+1
+2
+su
+31
+(2*(phora*htrab))-(htrab*phora)
+4
+1
+33
+"su sueldo es: S/ ", su, " soles"
+13
+1
